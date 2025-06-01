@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
   margin: 0;
   padding: 0;
@@ -26,7 +26,7 @@ section .background {
   left: 0;
 }
 
-/* --- Otros estilos (no modifican background ni section) --- */
+
 
 body {
   font-family: 'Montserrat', sans-serif;
@@ -178,7 +178,7 @@ footer {
   user-select: none;
 }
 
-/* Sección presentación */
+
 #presentacion {
   position: relative;
   width: 100%;
@@ -221,7 +221,7 @@ footer {
 }
 
 #presentacion .texto {
-  flex: 1 1 300px; /* flexible, mínimo 300px */
+  flex: 1 1 300px; 
   color: white;
 }
 
@@ -254,7 +254,7 @@ footer {
   margin-bottom: -48.3px;
 }
 
-/* Sección sobre mí */
+
 #sobre-mi {
   position: relative;
   width: 100%;
@@ -298,7 +298,7 @@ footer {
   max-width: 800px;
 }
 
-/* Sección sobre mí - 2*/
+
 #sobre-mi-2 {
   position: relative;
   width: 100%;
@@ -337,7 +337,7 @@ footer {
   max-width: 600px;
 }
 
-/* Sección servicios */
+
 #servicios {
   position: relative;
   width: 100%;
@@ -379,7 +379,7 @@ footer {
   display: block;
 }
 
-/* Sección habilidades */
+
 #habilidades {
   position: relative;
   width: 100%;
@@ -401,7 +401,7 @@ footer {
   object-fit: contain;
 }
 
-/* Sección proceso */
+
 #proceso {
   position: relative;
   width: 100%;
@@ -437,7 +437,7 @@ footer {
   object-fit: contain;
 }
 
-/* Sección otros-trabajos */
+
 #otros-trabajos {
   width: 100%;
   height: 60ch;
@@ -456,7 +456,7 @@ footer {
   object-fit: contain;
 }
 
-/* Sección otros */
+
 #otros {
   width: 100%;
   height: 65ch;
@@ -534,7 +534,7 @@ footer {
     box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
-/* Sección contacto */
+
 #contacto {
     width: 100%;
     height: 60ch;
